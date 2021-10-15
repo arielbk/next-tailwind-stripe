@@ -233,6 +233,13 @@
   resolved "https://registry.yarnpkg.com/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
 
+"@types/react-icons@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@types/react-icons/-/react-icons-3.0.0.tgz#27ca2823a6add881d06a371bfff093afc1b9c829"
+  integrity sha512-Vefs6LkLqF61vfV7AiAqls+vpR94q67gunhMueDznG+msAkrYgRxl7gYjNem/kZ+as2l2mNChmF1jRZzzQQtMg==
+  dependencies:
+    react-icons "*"
+
 "@typescript-eslint/parser@^4.20.0":
   version "4.33.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-4.33.0.tgz#dfe797570d9694e560528d18eecad86c8c744899"
@@ -2809,6 +2816,11 @@ react-dom@17.0.2:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
     scheduler "^0.20.2"
+
+react-icons@*, react-icons@^4.3.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-4.3.1.tgz#2fa92aebbbc71f43d2db2ed1aed07361124e91ca"
+  integrity sha512-cB10MXLTs3gVuXimblAdI71jrJx8njrJZmNMEMC+sQu5B/BIOmlsAjskdqpn81y8UBVEGuHODd7/ci5DvoSzTQ==
 
 react-is@17.0.2:
   version "17.0.2"
